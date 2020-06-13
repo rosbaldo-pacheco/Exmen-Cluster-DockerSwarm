@@ -1,0 +1,6 @@
+echo "# Exmen-Cluster-DockerSwarm" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rosbaldo-pacheco/Exmen-Cluster-DockerSwarm.git
+git push -u origin master
